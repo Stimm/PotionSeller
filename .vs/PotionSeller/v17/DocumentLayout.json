@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "G:\\Workspace\\PotionSeller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|g:\\workspace\\potionseller\\potionseller\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|solutionrelative:potionseller\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47E35543-7128-468C-A869-26C23105E01D}|PotionSellerTests\\PotionSellerTests.csproj|g:\\workspace\\potionseller\\potionsellertests\\inventoryservicetests\\read\\getallinventoriestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E35543-7128-468C-A869-26C23105E01D}|PotionSellerTests\\PotionSellerTests.csproj|solutionrelative:potionsellertests\\inventoryservicetests\\read\\getallinventoriestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\usecases\\getallinventoriesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\usecases\\getallinventoriesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\data\\inventoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\data\\inventoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\dtos\\readinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\dtos\\readinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47E35543-7128-468C-A869-26C23105E01D}|PotionSellerTests\\PotionSellerTests.csproj|g:\\workspace\\potionseller\\potionsellertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E35543-7128-468C-A869-26C23105E01D}|PotionSellerTests\\PotionSellerTests.csproj|solutionrelative:potionsellertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E35543-7128-468C-A869-26C23105E01D}|PotionSellerTests\\PotionSellerTests.csproj|g:\\workspace\\potionseller\\potionsellertests\\potionsellertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47E35543-7128-468C-A869-26C23105E01D}|PotionSellerTests\\PotionSellerTests.csproj|solutionrelative:potionsellertests\\potionsellertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|g:\\workspace\\potionseller\\potionseller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|solutionrelative:potionseller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\data\\iinventoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\data\\iinventoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\profiles\\inventoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\profiles\\inventoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|g:\\workspace\\potionseller\\potionseller\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|solutionrelative:potionseller\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\dtos\\writeinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\dtos\\writeinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|g:\\workspace\\potionseller\\potionseller\\inventoryservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\InventoryService.csproj|solutionrelative:potionseller\\inventoryservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|g:\\workspace\\potionseller\\potionseller\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|solutionrelative:potionseller\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +79,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "PotionSeller\\Models\\Inventory.cs",
-              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Models\\Inventory.cs",
-              "RelativeToolTip": "PotionSeller\\Models\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "GetAllInventoriesTests.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSellerTests\\InventoryServiceTests\\Read\\GetAllInventoriesTests.cs",
+              "RelativeDocumentMoniker": "PotionSellerTests\\InventoryServiceTests\\Read\\GetAllInventoriesTests.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSellerTests\\InventoryServiceTests\\Read\\GetAllInventoriesTests.cs",
+              "RelativeToolTip": "PotionSellerTests\\InventoryServiceTests\\Read\\GetAllInventoriesTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawCEAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T08:29:28.937Z",
+              "WhenOpened": "2025-06-09T13:08:07.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "PotionSellerTests",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSellerTests\\PotionSellerTests.csproj",
+              "RelativeDocumentMoniker": "PotionSellerTests\\PotionSellerTests.csproj",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSellerTests\\PotionSellerTests.csproj",
+              "RelativeToolTip": "PotionSellerTests\\PotionSellerTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T13:06:54.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrepDB.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Data\\PrepDB.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Data\\PrepDB.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Data\\PrepDB.cs",
+              "RelativeToolTip": "PotionSeller\\Data\\PrepDB.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:19:38.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryRepo.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Data\\InventoryRepo.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Data\\InventoryRepo.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Data\\InventoryRepo.cs",
+              "RelativeToolTip": "PotionSeller\\Data\\InventoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:14:21.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSellerTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "PotionSellerTests\\UnitTest1.cs",
@@ -48,6 +139,136 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T08:28:33.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllInventoriesUseCase.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\UseCases\\GetAllInventoriesUseCase.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\UseCases\\GetAllInventoriesUseCase.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\UseCases\\GetAllInventoriesUseCase.cs",
+              "RelativeToolTip": "PotionSeller\\UseCases\\GetAllInventoriesUseCase.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:35:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadInventoryDto.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Dtos\\ReadInventoryDto.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Dtos\\ReadInventoryDto.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Dtos\\ReadInventoryDto.cs",
+              "RelativeToolTip": "PotionSeller\\Dtos\\ReadInventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:54:18.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Controllers\\InventoryController.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "PotionSeller\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:48:40.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInventoryRepo.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Data\\IInventoryRepo.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Data\\IInventoryRepo.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Data\\IInventoryRepo.cs",
+              "RelativeToolTip": "PotionSeller\\Data\\IInventoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:11:18.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryProfile.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Profiles\\InventoryProfile.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Profiles\\InventoryProfile.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Profiles\\InventoryProfile.cs",
+              "RelativeToolTip": "PotionSeller\\Profiles\\InventoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:57:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Program.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Program.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Program.cs",
+              "RelativeToolTip": "PotionSeller\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:46:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WriteInventoryDto.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Dtos\\WriteInventoryDto.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Dtos\\WriteInventoryDto.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Dtos\\WriteInventoryDto.cs",
+              "RelativeToolTip": "PotionSeller\\Dtos\\WriteInventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:54:30.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Data\\AppDbContext.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PotionSeller\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:50:20.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventoryService.csproj",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\InventoryService.csproj",
+              "RelativeDocumentMoniker": "PotionSeller\\InventoryService.csproj",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\InventoryService.csproj",
+              "RelativeToolTip": "PotionSeller\\InventoryService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T08:44:21.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Models\\Inventory.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Models\\Inventory.cs",
+              "RelativeToolTip": "PotionSeller\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:29:28.937Z",
               "EditorCaption": ""
             }
           ]
