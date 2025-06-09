@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "XIinMtPBzah/4EFWBzMC4S4uVuw5KVdbcACv4VvvY3s=",
-  "Source": "Inventory",
-  "BasePath": "_content/Inventory",
+  "Hash": "iHUlxzA1pooQcN7Vk8L98T1GotJVO5oAplYYtvD6VFU=",
+  "Source": "InventoryService",
+  "BasePath": "_content/InventoryService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
