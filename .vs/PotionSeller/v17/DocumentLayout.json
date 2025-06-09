@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\Workspace\\PotionSeller\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|g:\\workspace\\potionseller\\potionseller\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5F92-80D4-47F0-8A17-F2343A700B29}|PotionSeller\\Inventory.csproj|solutionrelative:potionseller\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E35543-7128-468C-A869-26C23105E01D}|PotionSellerTests\\PotionSellerTests.csproj|g:\\workspace\\potionseller\\potionsellertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E35543-7128-468C-A869-26C23105E01D}|PotionSellerTests\\PotionSellerTests.csproj|solutionrelative:potionsellertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSeller\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "PotionSeller\\Models\\Inventory.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSeller\\Models\\Inventory.cs",
+              "RelativeToolTip": "PotionSeller\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:29:28.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "G:\\Workspace\\PotionSeller\\PotionSellerTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PotionSellerTests\\UnitTest1.cs",
+              "ToolTip": "G:\\Workspace\\PotionSeller\\PotionSellerTests\\UnitTest1.cs",
+              "RelativeToolTip": "PotionSellerTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:28:33.891Z",
+              "EditorCaption": ""
             }
           ]
         }

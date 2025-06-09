@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PotionSellerTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e48617160e0750e5ec65954b480195edabb427a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42bae5be5daa677cbba55a74878d05cb119a0ca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PotionSellerTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PotionSellerTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

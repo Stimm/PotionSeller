@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "PotionSeller\Inventory.csproj", "{A66B5F92-80D4-47F0-8A17-F2343A700B29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotionSellerTests", "PotionSellerTests\PotionSellerTests.csproj", "{47E35543-7128-468C-A869-26C23105E01D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A66B5F92-80D4-47F0-8A17-F2343A700B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A66B5F92-80D4-47F0-8A17-F2343A700B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A66B5F92-80D4-47F0-8A17-F2343A700B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E35543-7128-468C-A869-26C23105E01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E35543-7128-468C-A869-26C23105E01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E35543-7128-468C-A869-26C23105E01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E35543-7128-468C-A869-26C23105E01D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
