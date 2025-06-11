@@ -7,7 +7,7 @@ namespace InventoryService.Profiles
     public class InventoryProfile : Profile
     {
         InventoryProfile()
-        { 
+        {
             CreateMap<Inventory, ReadInventoryDto>();
         }
     }
