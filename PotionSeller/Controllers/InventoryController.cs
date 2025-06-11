@@ -23,5 +23,5 @@ public class InventoryController : ControllerBase
         var inventories = _repo.GetAllInventories();
 
         return Ok(inventories);
-    } 
+    }
 }
