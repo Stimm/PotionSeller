@@ -11,7 +11,6 @@ public class InventoryController : ControllerBase
 {
     private readonly IInventoryRepo _repo;
 
-    
     public InventoryController(IInventoryRepo repo)
     {
         _repo = repo;

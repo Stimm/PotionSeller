@@ -9,7 +9,7 @@ namespace InventoryService.UseCases
         private readonly IInventoryRepo _repo;
         private readonly IMapper _mapper;
 
-        public GetAllInventoriesUseCase(IInventoryRepo repo, IMapper map )
+        public GetAllInventoriesUseCase(IInventoryRepo repo, IMapper map)
         {
             _repo = repo;
             _mapper = map;
@@ -19,11 +19,9 @@ namespace InventoryService.UseCases
         {
             var inventories = _repo.GetAllInventories();
 
-            var map =  _mapper.Map<IEnumerable<ReadInventoryDto>>(inventories);
+            var map = _mapper.Map<IEnumerable<ReadInventoryDto>>(inventories);
 
             return map;
-
         }
-
     }
 }
